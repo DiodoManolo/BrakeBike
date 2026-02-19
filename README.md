@@ -32,8 +32,8 @@ La base de datos se generará manualmente realizando sesiones controladas y etiq
 
 
 ## Estado del proyecto
-- [ ] Repo creado y estructura inicial
-- [ ] Figura IA en `docs/`
+- [x] Repo creado y estructura inicial
+- [x] Figura IA en `docs/`
 - [ ] Extracción de datos IMU
 - [ ] Dataset v1 (grabación + etiquetas)
 - [ ] Análisis v1 (features + gráficas)
