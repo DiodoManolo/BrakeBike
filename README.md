@@ -65,16 +65,13 @@ BrakeBike/
 │   └── README.md
 ├── extraccion/
 │   ├── README.md
-│   ├── arduino_dataset_logger/
-│   ├── python_logger/
+│   ├── captura_dataset/
+│   ├── serial_logger_bici/
 │   └── docs/
 ├── analisis/
 │   ├── README.md
 │   ├── datos_crudos/
-│   ├── datos_procesados/
 │   ├── graficas/
-│   ├── edge_impulse/
-│   └── scripts/
 ├── implementacion_final/
 │   ├── README.md
 │   ├── bike_event_detector_final/
