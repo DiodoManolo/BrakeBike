@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.idea/
+# Jupyter
+.ipynb_checkpoints/
+
+# Arduino build/temp
+build/
+*.elf
+*.hex
+*.bin
+*.map
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Edge Impulse / downloaded zip backups
+*.zip
+
+# Logs
+*.log
+
+# Keep datasets only if they are not too large.
+# If videos are large, use Git LFS instead of normal Git.
