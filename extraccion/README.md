@@ -58,17 +58,6 @@ Se capturaron grabaciones de:
 
 Posteriormente, en la fase de análisis se descartó `frenada_suave`.
 
-## Ubicación de los archivos
-
-```text
-extraccion/
-├── arduino_dataset_logger/
-│   └── bike_dataset_logger.ino
-├── python_logger/
-│   └── serial_logger_bici.py
-└── docs/
-    └── diagrama_extraccion.png
-```
 
 ## Diagrama
 
