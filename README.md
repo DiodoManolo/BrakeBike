@@ -118,6 +118,3 @@ El código final ejecutado en la placa realiza:
 
 La presentación del proyecto se encuentra en la carpeta `presentacion/`.
 
-## Nota sobre archivos grandes
-
-Si se incluyen vídeos de demostración, conviene revisar su tamaño antes de subirlos a GitHub. Para archivos grandes puede ser necesario usar **Git LFS**.
